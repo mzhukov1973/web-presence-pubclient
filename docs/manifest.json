@@ -16,7 +16,7 @@
    {"src":"/android-chrome-384x384.png?v=1.0", "sizes":"384x384",           "type":"image/png"   }
  ],
   "prefer_related_applications": false,
-  "scope":                       "https://testbed2.cloud.tilaa.com:5021/",
+  "scope":                       "https://mzhukov1973.github.io/web-presence-pubclient/",
   "start_url":                   "/index.html",
   "display":                     "standalone",
   "orientation":                 "portrait",
